@@ -41,8 +41,7 @@ class Calculator
                     System.out.println("second number cannot be equal to 0");
                 }
                 else{
-                int result4=n1/n2;
-                System.out.println( "value is:" +result4);
+                System.out.println( "value is:" +(double)n1/n2);
                 }
                 break;    
                 
