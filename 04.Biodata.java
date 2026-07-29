@@ -4,7 +4,7 @@ class Student
     System.out.println("---BIODATA---");
     System.out.println("NAME\t\t:VIKRANT SINGH");
     System.out.println("AGE\t\t:19");
-    System.out.println("GENDER\t\t:M");
+    System.out.println("GENDER\t\t:MALE");
     System.out.println("CITY\t\t:REWARI");
 
     System.out.println("---FORMATTED OUTPUT---");
