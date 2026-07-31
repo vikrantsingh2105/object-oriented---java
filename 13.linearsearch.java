@@ -22,7 +22,7 @@ class Student
         }
         System.out.print("Enter the element u want to search:");
         target=sc.nextInt();
-        for(int i=0;i<=n;i++){
+        for(int i=0;i<n;i++){
             if(arr[i]==target){
                 index= i;
                 break;
