@@ -1,7 +1,10 @@
 class Student{
     int roll_no;
     String name;
-    static String college = "Sharda";
+    static String college="Sharda university";
+    static {
+        System.out.println("welcome");
+    }
     Student(int r,String n) {
          
          roll_no=r;
